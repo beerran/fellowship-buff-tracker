@@ -26,3 +26,5 @@ A real-time buff tracking overlay for Fellowship that mirrors your buff icons in
 - **It will mess up**
   - It will flicker sometimes/be out of sync for a second
   - I don't care that it's wonky
+
+<img width="597" height="602" alt="image" src="https://github.com/user-attachments/assets/5af034d7-24a9-495e-b884-90dac63071a6" />
